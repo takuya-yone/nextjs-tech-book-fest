@@ -7,13 +7,19 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <Image
+        //最適化前
         src="/large_image_1.jpg"
+        //最適化後
+        // src="/optimized/large_image_1.jpg"
         width={"300"}
         height={"300"}
         alt="large_image_1"
       />
       <Image
+        //最適化前
         src="/large_image_2.jpg"
+        //最適化後
+        // src="/optimized/large_image_2.jpg"
         width={"300"}
         height={"300"}
         alt="large_image_2"
