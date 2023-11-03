@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "aws-rum-web": "^1.15.0",
-    "next": "14.0.0",
+    "next": "14.0.1",
     "react": "^18",
     "react-dom": "^18"
   },
@@ -21,7 +21,7 @@
     "@types/react-dom": "^18",
     "autoprefixer": "^10",
     "eslint": "^8",
-    "eslint-config-next": "14.0.0",
+    "eslint-config-next": "14.0.1",
     "postcss": "^8",
     "serve": "^14.2.1",
     "tailwindcss": "^3",
